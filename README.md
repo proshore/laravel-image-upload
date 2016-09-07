@@ -3,21 +3,11 @@ Basic image upload and thumbnail management package for laravel5.
 
 ## Installation
 
-> Since the package is not yet in packagist you first need to add package url to the composer repositories. Eg:  
-
-```php
- "repositories": [
-     {
-       "type": "vcs",
-       "url": "https://ankitpokhrel@bitbucket.org/ankitpokhrel/laravel-image.git"
-     }
-   ]
-```
 First, pull in the package through Composer.
 
 ```js
 "require": {
-    "ankitpokhrel/laravel-image": "dev-master"
+    "proshore/laravel-image-upload": "dev-master"
 }
 ```
 
